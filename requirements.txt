@@ -1,4 +1,4 @@
 pyjwt
 flask
 gunicorn
-pytest
+pytest==4.6
